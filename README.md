@@ -72,4 +72,5 @@ OUTPUT:
 
 
 RESULT:
+
 Thus, the three orthographic views (Top View, Front View and Side View) of the given mechanical component were successfully drawn using the specified dimensions and appropriate engineering drawing instruments.
