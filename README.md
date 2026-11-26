@@ -17,7 +17,7 @@ STEP 1: Study the Given Drawing
  * Note all the important dimensions, circular portions, holes and curved surfaces.
  * Understand the shape and arrangement of the component.
  * Select a suitable drawing scale according to the drawing sheet.
- * 
+  
 Step 2: Draw the Front View
  * Draw a horizontal reference line for the Front View.
  * Mark the overall length as 420 mm using the selected scale.
